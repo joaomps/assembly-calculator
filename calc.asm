@@ -1,4 +1,3 @@
-;João Silva no. 48782
 extern imprime_eax
 section .text 
 global main 
